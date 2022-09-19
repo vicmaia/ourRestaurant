@@ -1,4 +1,4 @@
-# ourRestaurant
+# restaurantApp
 
 May 2021
 <br />
